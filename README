@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=839
+
+Only supports gvim, because there is not much you can do with only 2 shades of green in cterm. 
+
+A colour scheme for people editing python, its very 'green' and 'pythonic', its also very 'untidy' and 'unfinished'. The next version should be alot cleaner.
+
+ps: I modified an existing colour scheme I already had installed, I cannot remember which, so If you recognise your own work, umm.. get over it :) 
